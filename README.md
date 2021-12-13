@@ -1,16 +1,16 @@
-### Hi there 👋
+Fullstack Web Developer.
 
-<!--
-**Bayudiartaa/Bayudiartaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm BayuDiarta Laksono
 
-Here are some ideas to get you started:
+Hi, I'm BayuDiarta Laksono , i'm a freelancer fullstack web developer. I live in Tulungagung , East Java, Indonesia. I'm fullstack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Performance Overall
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayudiartaa)](https://github.com/anuraghazra/github-readme-stats)
+
+## Current activity
+
+- 💼 I majored in software engineering
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me hi.bayudiarta230@gmail.com
+
+Thank's All
