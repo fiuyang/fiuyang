@@ -12,6 +12,6 @@ Hi, I'm BayuDiarta Laksono , i'm a freelancer fullstack web developer. I live in
 
 - 💼 I majored in software engineering
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me hi.bayudiarta230@gmail.com
+- 📫 How to reach me bayudiarta230@gmail.com
 
 Thank's All
