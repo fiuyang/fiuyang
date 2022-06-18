@@ -1,4 +1,4 @@
-Fullstack Web Developer.
+Web Developer.
 
 # Hi there 👋 I'm BayuDiarta Laksono
 
@@ -15,3 +15,10 @@ Hi, I'm BayuDiarta Laksono , i'm a freelancer fullstack web developer. I live in
 - 📫 How to reach me bayudiarta230@gmail.com
 
 Thank's All
+
+
+<img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-%2400f.svg?&style=for-the-badge&logo=Node.js&logoColor=white">  
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
