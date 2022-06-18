@@ -5,9 +5,17 @@ Web Developer.
 Hi, I'm BayuDiarta Laksono , i'm a freelancer fullstack web developer. I live in Tulungagung , East Java, Indonesia. I'm fullstack Web Developer
 
 ## Github Performance Overall
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayudiartaa&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<summary>My Github Activity</summary>
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayudiartaa&show_icons=true&locale=en&layout=compact&theme=radical" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Bayudiartaa&show_icons=true&theme=radical&locale=en" width="410" /></p>
+</div>
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bayudiartaa&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayudiartaa&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bayudiartaa&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## Current activity
