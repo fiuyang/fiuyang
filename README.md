@@ -2,7 +2,7 @@ Web Developer.
 
 # Hi there 👋 I'm BayuDiarta Laksono
 
-Hi, I'm BayuDiarta Laksono , i'm a freelancer fullstack web developer. I live in Tulungagung , East Java, Indonesia. I'm fullstack Web Developer
+Hi, I'm BayuDiarta Laksono , i'm a freelancer web developer. I live in Tulungagung , East Java, Indonesia. I'm fullstack Web Developer
 
 ## Current activity
 - 💼 I majored in software engineering
