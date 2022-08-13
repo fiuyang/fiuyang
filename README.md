@@ -16,7 +16,7 @@ Thank's All
 <img src="https://img.shields.io/badge/lumen%20-%23FF2D20.svg?&style=for-the-badge&logo=lumen&logoColor=white">
 <img src="https://img.shields.io/badge/php%20-%23FF2D20.svg?&style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%2400f.svg?&style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/golang-%2400f.svg?&style=for-the-badge&logo=golang&logoColor=white">  
+<img src="https://img.shields.io/badge/go-%2400f.svg?&style=for-the-badge&logo=go&logoColor=white">  
 <img src="https://img.shields.io/badge/express%20-%2314354C.svg?&style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-%2400f.svg?&style=for-the-badge&logo=Node.js&logoColor=white">  
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
