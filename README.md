@@ -7,7 +7,7 @@ Hi, I'm BayuDiarta Laksono , i'm a freelancer web developer. I live in Tulungagu
 ## Current activity
 - 💼 I majored in software engineering
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me bayudiarta230@gmail.com
+- 📫 How to reach me bagusbayu270@gmail.com
 
 Thank's All
 ## <img alt="cover-github" src="https://github.com/Whyu9-9/Whyu9-9/blob/master/cover1.png">
