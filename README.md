@@ -1,8 +1,8 @@
 Web Developer.
 
-# Hi there 👋 I'm BayuDiarta Laksono
+# Hi there 👋 I'm Bayu
 
-Hi, I'm BayuDiarta Laksono , i'm a freelancer web developer. I live in Tulungagung , East Java, Indonesia. I'm BackEnd Developer
+Hi, I'm Bayu , i'm a freelancer. I live in Tulungagung , East Java, Indonesia. I'm BackEnd Engineer
 
 ## Current activity
 - 💼 I majored in software engineering
