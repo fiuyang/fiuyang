@@ -1,8 +1,6 @@
-Web Developer.
-
 # Hi there 👋 I'm Bayu
 
-Hi, I'm Bayu , i'm a freelancer. I live in Tulungagung , East Java, Indonesia. I'm BackEnd Engineer
+### A passionate backend engineer from Indonesia. Familiar with PHP, Laravel framework, Lumen microframework.
 
 ## Current activity
 - 💼 I majored in software engineering
