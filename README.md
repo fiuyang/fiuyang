@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Bayu
+# <p align="center"> Hi there 👋 I'm Bayu </p>
 
-### A passionate backend engineer from Indonesia. Familiar with PHP, Laravel framework, Lumen microframework.
+## <p align="center"> A passionate backend engineer from Indonesia. Familiar with PHP, Laravel framework, Lumen microframework. </p>
 
 ## Current activity
 - 💼 I majored in software engineering
