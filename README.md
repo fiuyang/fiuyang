@@ -23,8 +23,8 @@ Thank's All
 <details>
 <summary>My Github Activity</summary>
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayudiartaa&show_icons=true&locale=en&layout=compact&theme=radical" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Bayudiartaa&show_icons=true&theme=radical&locale=en" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiuyang&show_icons=true&locale=en&layout=compact&theme=radical" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fiuyang&show_icons=true&theme=radical&locale=en" width="410" /></p>
 </div>
 </details>
 
